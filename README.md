@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Idayat Shalewa Salako  
 
-<!--
-**Idayat01/Idayat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Data Analyst | Virtual Assistant  
+🔹 Skilled in **Excel, SQL, Power BI, and Python**  
+🔹 Passionate about turning raw data into actionable insights  
+🔹 Exploring **data-driven solutions** for business growth  
 
-Here are some ideas to get you started:
+## 📊 Featured Skills  
+- Data Cleaning & Visualization  
+- Report Building & Dashboarding  
+- Database Querying (SQL)  
+- Workflow Automation & Virtual Assistance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Journey  
+🌱 Completed a **Data Analytics program with Axia Africa**  
+🎯 Building my portfolio with real-world projects  
+
+## 📂 Projects  
+👉 I’m uploading my projects here soon — stay tuned!  
+
+## 📫 Let’s Connect  
+- LinkedIn: [www.linkedin.com/in/idayat-shalewa-salako-47a78b184]  
+- Email: [isaidayat123@gmail.com]  
