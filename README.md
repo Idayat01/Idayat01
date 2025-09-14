@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Idayat Salako  
+# Hi there 👋, I'm Idayat Shalewa Salako  
 
 Aspiring Data Analyst | Virtual Assistant  
 Passionate about turning raw data into actionable insights   
