@@ -21,7 +21,7 @@ Exploring data-driven solutions for business growth
 ---
 
 ##  Projects
-*(Projects will be added here as I upload them)*
+https://github.com/Idayat01/Data-Analysis-Excel-Project
 
 ---
 
