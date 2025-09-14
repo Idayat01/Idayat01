@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Idayat Shalewa Salako  
+# Hi there, I'm Idayat Shalewa Salako  
 
 Aspiring Data Analyst | Virtual Assistant  
 Passionate about turning raw data into actionable insights   
@@ -6,7 +6,7 @@ Exploring data-driven solutions for business growth
 
 ---
 
-## 📊 Skills & Tools
+## Skills & Tools
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
